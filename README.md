@@ -58,8 +58,6 @@ pip install -r requirements.txt
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
 ├── LICENSE                            # Liecense inforamtion
-
-LICENSE
 ```
 
 ---
