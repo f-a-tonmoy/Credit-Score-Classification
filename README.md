@@ -1,7 +1,5 @@
 # Credit Score Classification
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f-a-tonmoy/credit-score-classification/blob/main/Credit_Score_Classification.ipynb)
-
 ---
 
 ## 📝 Project Overview
