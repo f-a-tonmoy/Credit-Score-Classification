@@ -32,8 +32,9 @@ Key features:
 
 - Exploratory Data Analysis (EDA) to understand trends and distributions.
 - Feature engineering to enhance predictive power.
-- Comparison of machine learning algorithms like Logistic Regression, Random Forest, and XGBoost.
-- Hyperparameter tuning.
+- Comparison of machine learning algorithms like Naive Byes, Decision Tree, and Random Forest.
+- Dimensionality Reduction
+- Hyperparameter Tuning.
 - Comparative Analysis
 
 ---
