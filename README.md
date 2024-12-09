@@ -83,8 +83,8 @@ pip install -r requirements.txt
 
 ## 🧪 Results
 
-- **Best Performing Model**: XGBoost with an accuracy of 92%.
-- **Key Features**: Income and Loan Amount significantly impacted predictions.
+- **Best Performing Model**: Random Forest with an accuracy of 87%.
+- **Key Features**: Annual Income, Credit History Age, and Monthly Balance significantly impacted predictions.
 - Visualizations (e.g., feature importance, confusion matrix) are provided in the notebook.
 
 ---
