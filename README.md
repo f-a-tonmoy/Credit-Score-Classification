@@ -70,7 +70,7 @@ pip install -r requirements.txt
    ```
 
 2. Open the notebook in Google Colab:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/credit-score-classification/blob/main/Credit_Score_Classification.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oNvJwAUS3y2EGIKUudvND9JlHpkBaPB9?usp=sharing)
 
 3. Follow the steps in the notebook:
    - Load the dataset.
