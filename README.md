@@ -57,6 +57,9 @@ pip install -r requirements.txt
 ├── Credit_Score_Classification.ipynb  # Main notebook
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
+├── LICENSE                            # Liecense inforamtion
+
+LICENSE
 ```
 
 ---
